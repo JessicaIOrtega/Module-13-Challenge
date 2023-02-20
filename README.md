@@ -16,16 +16,16 @@ Object-Relational Mapping (ORM): E-Commerce Back End
   ## Usage
   In here you can see the steps to run the application and make some tests via Insomnia.
 
--How to create the schema from the MySQL shell
+### -How to create the schema from the MySQL shell
   ![Creating Schema screenshot](assets/CREATE_SCHEMA.png)
 
--How to seed the database from the command line
+### -How to seed the database from the command line
   ![Seeding the database screenshot](assets/SEEDS_FROMDB.png)
 
--How to start the application’s server
+### -How to start the application’s server
 ![Starting app screenshot](assets/START_APP.png)
 
--Routes for all categories, all products, and all tags being tested in Insomnia
+### -Routes for all categories, all products, and all tags being tested in Insomnia
 ![Alt text](assets/INSOMNIA_TESTS.png)
 
   ## Installation
