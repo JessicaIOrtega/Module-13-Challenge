@@ -1,5 +1,5 @@
-# Module-14-Challenge
-Model-View-Controller (MVC) Challenge: Tech Blog
+# Module-13-Challenge
+Object-Relational Mapping (ORM): E-Commerce Back End
 
   ## Table of Contents
   - [Description](#Description)
@@ -11,12 +11,26 @@ Model-View-Controller (MVC) Challenge: Tech Blog
 
   ## Description
   
+  One can see how the back end for an e-commerce site is configured and how products, categories, and tags interact with each other., as well as, how to edit each by changing or deleting excisting data.
   
   ## Usage
-  
+  In here you can see the steps to run the application and make some tests via Insomnia.
+
+-How to create the schema from the MySQL shell
+  ![Creating Schema screenshot](assets/CREATE_SCHEMA.png)
+
+-How to seed the database from the command line
+  ![Seeding the database screenshot](assets/SEEDS_FROMDB.png)
+
+-How to start the application’s server
+![Starting app screenshot](assets/START_APP.png)
+
+-Routes for all categories, all products, and all tags being tested in Insomnia
+![Alt text](assets/INSOMNIA_TESTS.png)
 
   ## Installation
-  
+  It uses Express.js, Sequelize, and MySQL
+  Insomnia to test routes
 
   ## Credits
   N/A
